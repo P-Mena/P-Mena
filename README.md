@@ -1,5 +1,5 @@
 ## Hi there, I'm Filomena Pedante 👋
-I'm a **Junior Frontend Developer** passionate about building clean, user-friendly, and accessible web applications.  
+I'm a **Entry-Level Frontend Developer** passionate about building clean, user-friendly, and accessible web applications.  
 
 ---
 
@@ -12,8 +12,8 @@ I'm a **Junior Frontend Developer** passionate about building clean, user-friend
 
 ## 🧰 Tech Stack  
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Tailwind CSS  
-- **Tools & Platforms:** Git, GitHub, CodePen, VS Code
+- **Frameworks & Libraries:** React
+- **Tools & Platforms:** Git, GitHub, VS Code
 
 
 <!--

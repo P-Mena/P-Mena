@@ -1,19 +1,49 @@
 ## Hi there, I'm Filomena Pedante 👋
-I'm a **Entry-Level Frontend Developer** passionate about building clean, user-friendly, and accessible web applications.  
+I'm an **Entry-Level Data Technician** with a strong motivation to start a career in the data field, and an **Entry-Level Frontend Developer** passionate about technology and continuous learning.
+
+---
+
+## 🎯 Career Goal  
+My primary goal is to grow as a **Data Technician**:  
+- I want to work with data, understand it, clean it, transform it, and turn it into valuable insights.  
+- I'm developing solid foundations in analytical tools and programming languages used in the industry.  
+- I'm actively building projects to demonstrate my skills and to keep improving every day.
 
 ---
 
 ## 🚀 About Me  
-- 🌱 I'm currently learning and practicing **React**.  
-- 🛠️ I'm building projects with **Roadmap**,**Codecademy**,**Frontend Mentor**, **CodeWars**, **Exercism**, and **CodePen**   
-- 🎯 My goal is: Grow into a skilled frontend engineer, ready to contribute to real-world applications  
+- 🌱 Currently studying and practicing **Python**, **SQL**, and data analysis tools.  
+- 📊 Improving my skills in **Excel**, **Tableau**, and **Power BI**.  
+- 🧪 Creating data-focused projects to strengthen my technical abilities.  
+- 💻 Continuing to develop frontend skills with **React**, exercises, and coding challenges.  
+- 🎓 Motivated, curious, and committed to growing into a data professional.
 
 ---
 
 ## 🧰 Tech Stack  
+
+### 📊 Data  
+- **Tools:** Excel, Tableau, Power BI  
+- **Languages:** SQL, Python  
+- **Learning:** Data cleaning, data visualization, and libraries for analysis  
+
+### 🖥️ Frontend (Secondary Focus)  
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Frameworks & Libraries:** React  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+## 📚 What I'm Working On  
+- Developing data analysis projects using real or simulated datasets  
+- Learning advanced Python and SQL techniques  
+- Studying data visualization best practices  
+- Completing exercises and challenges to improve problem-solving  
+
+---
+
+Thanks for visiting my profile! 🚀  
+
 
 
 <!--

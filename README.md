@@ -13,7 +13,7 @@ My primary goal is to grow as a **Data Technician**:
 
 ## 🚀 About Me  
 - 🌱 Currently studying and practicing **Python**, **SQL**, and data analysis tools.  
-- 📊 Improving my skills in **Excel**, **Tableau**, and **Power BI**.  
+- 📊 Improving my skills in **Excel**, **Tableau**.  
 - 🧪 Creating data-focused projects to strengthen my technical abilities.  
 - 💻 Continuing to develop frontend skills with **React**, exercises, and coding challenges.  
 - 🎓 Motivated, curious, and committed to growing into a data professional.
@@ -23,7 +23,7 @@ My primary goal is to grow as a **Data Technician**:
 ## 🧰 Tech Stack  
 
 ### 📊 Data  
-- **Tools:** Excel, Tableau, Power BI  
+- **Tools:** Excel, Tableau
 - **Languages:** SQL, Python  
 - **Learning:** Data cleaning, data visualization, and libraries for analysis  
 
